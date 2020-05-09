@@ -1,0 +1,34 @@
+body{
+  background-color: black;
+}
+
+#brand-span{
+  text-transform: uppercase;
+  color: #ccc424;
+}
+
+.nav-item{
+  border: 1px solid white;
+  border-radius: 10px;
+}
+
+.card {
+  background-color: #343a40;
+}
+
+.card-title{
+    color: #fff;
+}
+
+.card-text{
+  color: #908c8c;
+}
+
+.btn-md{
+  border: 1px solid white;
+  color: cyan;
+}
+
+.fa-star{
+  color: #eccc10;
+}
